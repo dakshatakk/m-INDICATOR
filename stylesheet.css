@@ -1,0 +1,39 @@
+#q1{
+    border:none;
+    
+    font-family: serif;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+}
+#q2{
+    border: none;
+    background-color: white;
+    font-family: serif;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+}
+nav{
+    padding: 20px;
+    border: 10px;
+    padding-left: 1000px;
+}
+#q1:hover{
+    background-color: darkgray;
+}
+
+.a1{
+text-align: center;
+background-color: white;
+border-radius: 100%;
+height: 50%;
+width: 50%;
+font-size: 40px;
+font-family: cursive;
+background: ;
+
+}
+body{
+    background-color: bisque;
+}

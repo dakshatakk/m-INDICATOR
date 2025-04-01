@@ -1,0 +1,50 @@
+.a1{
+    background-color: red;
+    text-align: center;
+ 
+}
+.a2{
+    color: white;
+    font-size:xx-large;
+    
+}
+.a3{
+    display: grid;
+    padding: 0px;
+    grid-template-columns: repeat(auto-fit,minmax(15px,1fr));
+    justify-content: center;
+  
+}
+.a4{
+    display: grid;
+    padding: 0px;
+    grid-template-columns: repeat(auto-fit,minmax(15px,1fr));
+    justify-content: center;
+}
+.a5{
+    display: grid;
+    padding: 0px;
+    grid-template-columns: repeat(auto-fit,minmax(15px,1fr));
+    justify-content: center;
+}
+#q1{
+    border: none;
+    background-color: red;
+    color: rgb(240, 233, 233);
+    font-size: larger;
+    padding: 20px;
+}
+#q2{
+    background-color: brown;
+    color: white;
+    font-size: medium;
+    margin-bottom: 0px;
+    padding: 8px;
+}
+#q3{
+    margin-top: 20px;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
